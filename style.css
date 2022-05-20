@@ -1,0 +1,32 @@
+.{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* navbar */
+
+.navbar-nav{
+    font-size: 22px;
+}
+
+/* button */
+
+.btn:hover{
+    color: white;
+}
+/* card */
+.card{
+    transition: 0.5s ease;
+
+}
+
+.card img{
+    height: 100px;
+    width: 100px;
+    margin: auto; ;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 2px 10px black;
+}
